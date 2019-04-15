@@ -1,0 +1,6 @@
+*.o
+*.fasl
+*.lx32fsl
+*.lx64fsl
+TAGS
+*.so
